@@ -21,7 +21,9 @@
     - So if you have a basis for some subspace, any member of the subspace can be uniquely determined by a unique combination of the vectors that form the basis.
 
 - [x] Vector dot and cross products
-    - 
+    - Dot product of the vector with itself gives us its "Length". Dot product property is associative, commutative and distributive.
+    - Cauchy-Schwarz inequality: The absolute value of the dot product of two non-zero vectors belonging to R<sup>n</sup> is less than or equal to the product of the two vectors length. The only time the inequality turns into an equality is when one of the vectors is a scalar multiple of the other.
+    - Vector triangle inequality: The length of the sum of two vectors is less than the sum of lengths of the two vectors. If the two vectors are collinear (scalar multiple), the inequality turns into an equality.
 
 - [ ] Matrices for solving systems by elimination
 
