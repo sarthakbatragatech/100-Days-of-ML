@@ -7,4 +7,6 @@
 
 ## Web Courses  
 
+*  [3Blue1Brown (YouTube Playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 *  [Khan Academy](https://www.khanacademy.org/math/linear-algebra)

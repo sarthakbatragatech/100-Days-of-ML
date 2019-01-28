@@ -14,37 +14,15 @@
     - Linear independence implies the only solution to c<sub>1</sub>v<sub>1</sub> + c<sub>2</sub>v<sub>2</sub> + , ..... , + c<sub>n</sub>v<sub>n</sub> = 0 is when all c<sub>i</sub>'s are equal to zero.
     - To summarize things in a beautiful manner, if span of n vectors is R<sup>n</sup>, the set of vectors are linearly independent.
 
-- [ ] Subspaces and the basis for a subspace
+- [x] Subspaces and the basis for a subspace
+    - For a set of vectors V to be a subspace of R<sup>n</sup>, V should be a subset of R<sup>n</sup> containing the zero vector and must be closed under multiplication (if any vector x in V is multiplied by some real scalar, we are still in the same set V) and closed under addition (for vectors a and b in V, a + b should also be in V).
+    - Once again, to put things eloquently, the span of n vector(s) is a subspace of R<sup>n</sup>.
+    - A set of vectors S forms the basis of a subspace V if it is linearly independent and spans V. Think of it as the 'minimum' set of vectors whose span makes the subspace V.
+    - So if you have a basis for some subspace, any member of the subspace can be uniquely determined by a unique combination of the vectors that form the basis.
 
-- [ ] Vector dot and cross products
+- [x] Vector dot and cross products
+    - 
 
 - [ ] Matrices for solving systems by elimination
 
 - [ ] Null space and column space
-
-### Matrix transformations
-- [ ] Functions and linear transformations
-
-- [ ] Linear transformation examples
-
-- [ ] Transformations and matrix multiplication
-
-- [ ] Inverse functions and transformations
-
-- [ ] Finding inverses and determinants
-
-- [ ] More determinant depth
-
-- [ ] Transpose of a matrix
-
-
-### Alternate coordinate systems (bases)
-- [ ] Orthogonal complements
-
-- [ ] Orthogonal projections
-
-- [ ] Change of basis
-
-- [ ] Orthonormal bases and the Gram-Schmidt process
-
-- [ ] Eigen-everything
