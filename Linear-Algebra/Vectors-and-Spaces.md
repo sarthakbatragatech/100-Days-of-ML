@@ -24,6 +24,9 @@
     - Dot product of the vector with itself gives us its "Length". Dot product property is associative, commutative and distributive.
     - Cauchy-Schwarz inequality: The absolute value of the dot product of two non-zero vectors belonging to R<sup>n</sup> is less than or equal to the product of the two vectors length. The only time the inequality turns into an equality is when one of the vectors is a scalar multiple of the other.
     - Vector triangle inequality: The length of the sum of two vectors is less than the sum of lengths of the two vectors. If the two vectors are collinear (scalar multiple), the inequality turns into an equality.
+    - Law of cosines (Broader Pythagoran theorem): For three sides of a triangle, A, B, C, and an angle theta between A and B, C<sup>2</sup> = A<sup>2</sup> + B<sup>2</sup> - 2ABcos(theta).
+    - Relationship between dot product and angle between two vectors. Notion of orthogonality for zero vector.
+    - Equation of a plane in R<sup>3</sup>: Ax + By + Cz = D. A plane in R<sup>3</sup> can also be defined with a point and normal vecor.
 
 - [ ] Matrices for solving systems by elimination
 
