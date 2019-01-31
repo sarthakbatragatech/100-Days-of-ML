@@ -1,9 +1,11 @@
-# Data Visualization Resources
+# Football Manager Dataset
 
-## Datasets Visualized in this repo  
+*	Over 150,000 football manager 2017 players with over 80 features/attributes to analyze!
 
-*  [Football Manager](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Visualizing-Datasets/Football-Manager)
+## Plots  
 
-## Web Courses
+#### Distribution of Acceleration
+![Distribution of Acceleration](plots/acceleration_distribution.png)
 
-## Useful Links
+#### Scatterplot Matrix
+![Scatterplot Matrix](plots/scatterplot_matrix.png)
