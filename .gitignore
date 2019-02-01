@@ -17,6 +17,7 @@ __pycache__/
 
 #Miscellaneous
 .LICENSE
+.ipynb_checkpoints
 
 # OS generated files #
 .DS_Store
