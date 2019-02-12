@@ -7,5 +7,19 @@
 #### Distribution of Acceleration
 ![Distribution of Acceleration](plots/acceleration_distribution.png)
 
-#### Scatterplot Matrix
-![Scatterplot Matrix](plots/scatterplot_matrix.png)
+#### International Goals and Caps by Age Group
+![International Goals and Caps by Age Group](plots/international_goals_by_age.png)
+
+#### Player Phyicals Attributes Analyzed
+![Player Phyicals Analyzed](plots/physicals.png)
+
+#### Jointplot of Acceleration and Pace
+![Jointplot of Acceleration and Pace](plots/acceleration_vs_pace.png)
+
+#### Correlation between International Goals and Physical Attributes
+![Correlation between International Goals and Physicals](plots/international_goals_vs_physicals.png)
+ 
+![International Goals and Physicals with Age](plots/international_goals_physicals_age.png)
+
+#### Scatterplot matrix of Physical Attributes
+![Scatterplot matrix of Physical Attributes](plots/physicals_scattermatrix.png)
