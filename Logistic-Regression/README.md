@@ -8,8 +8,6 @@ Visualizing the infamous Titanic Dataset and applying a logistic regression mode
 
 ![Bivariate Analysis](plots/bivariate_analysis.png)
 
-![Univariate](plots/dataset_distribution.png)
-
 ### Kaggle Submission Link
 
 * [Titanic](https://www.kaggle.com/sarthakbatra/titanic-eda-and-logistic-regression/)
