@@ -4,7 +4,11 @@
 
 Visualizing the infamous Titanic Dataset and applying a logistic regression model from scikit learn library.
 
-### Kaggle Submission
+### Exploratory Data Analysis
+
+![Univariate](plots/dataset_distribution.png)
+
+### Kaggle Submission Link
 
 * [Titanic](https://www.kaggle.com/sarthakbatra/titanic-eda-and-logistic-regression/)
 
