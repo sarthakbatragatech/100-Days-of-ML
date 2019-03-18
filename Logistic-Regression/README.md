@@ -6,6 +6,8 @@ Visualizing the infamous Titanic Dataset and applying a logistic regression mode
 
 ### Exploratory Data Analysis
 
+![Bivariate Analysis](plots/bivariate_analysis.png)
+
 ![Univariate](plots/dataset_distribution.png)
 
 ### Kaggle Submission Link
