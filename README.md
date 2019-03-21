@@ -1,6 +1,6 @@
 # 100-Days-of-ML
 
-This project is my committment to 100 Days of Machine Learning and Coding. I intend to publish notes, code, and resources I encounter daily so anyone else may work along or benefit from the final repository.
+This project is my committment to 100 Days of Machine Learning and Coding. I intend to publish notes, code, and resources I encounter whilst on this journey so anyone else may work along or benefit from the final repository.
 
 ![Progress](http://progressed.io/bar/12?title=progress)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sarthakbatragatech/100-Days-of-ML/issues)  
 
