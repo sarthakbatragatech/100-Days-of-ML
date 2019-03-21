@@ -1,6 +1,12 @@
 # Gradient Boosting Resources
 
-The notebook discusses the basics of how Gradient Boosting works answers the question: "Will performance of GBDT model drop dramatically if we remove the first tree?" The major contents of this notebook are from the Coursera course on ["How to Win a Data Science Competition"](https://www.coursera.org/learn/competitive-data-science), course 2 in the [advanced machine learning specialization](https://www.coursera.org/specializations/aml)
+The notebook discusses the basics of how Gradient Boosting works answers the question: "Will performance of GBDT model drop dramatically if we remove the first tree?" The major contents of this notebook are from the Coursera course on ["How to Win a Data Science Competition"](https://www.coursera.org/learn/competitive-data-science), course 2 in the [advanced machine learning specialization](https://www.coursera.org/specializations/aml).
+
+## Plots from Notebook
+
+![Score vs Trees](plots/score_vs_trees.png)
+
+![Score vs Trees High Learning Rate](plots/score_vs_trees_high_learn.png)
 
 ## Useful Links
 
