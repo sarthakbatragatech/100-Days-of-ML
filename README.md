@@ -13,6 +13,7 @@ This project is my committment to 100 Days of Machine Learning and Coding. I int
 * [Linear Algebra](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Linear-Algebra)
 * [Linear Regression](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Linear-Regression)
 * [Logistic Regression](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Logistic-Regression)
+* [Time Series Forecasting](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Time-Series-Forecasting)
 * [Visualizing Datasets](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Visualizing-Datasets)
 
 ### Contributions
