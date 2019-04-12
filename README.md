@@ -15,6 +15,8 @@ This project is my committment to 100 Days of Machine Learning and Coding. I int
 * [Logistic Regression](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Logistic-Regression)
 * [Time Series Forecasting](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Time-Series-Forecasting)
 * [Visualizing Datasets](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Visualizing-Datasets)
+* [Hyperparameter Tuning](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Hyperparameter-Tuning)
+
 
 ### Contributions
 
