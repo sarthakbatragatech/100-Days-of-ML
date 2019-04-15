@@ -17,7 +17,6 @@ This project is my committment to 100 Days of Machine Learning and Coding. I int
 * [Visualizing Datasets](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Visualizing-Datasets)
 * [Hyperparameter Tuning](https://github.com/sarthakbatragatech/100-Days-of-ML/tree/master/Hyperparameter-Tuning)
 
-
 ### Contributions
 
  Please shoot me an email at sarthakbatra1993@gmail.com with the title 'Contributing to 100-Days-of-ML' if you have suggestions on how to make this project better. Alternatively, you can click on the contributions link at the top of this readme to start an issue.
