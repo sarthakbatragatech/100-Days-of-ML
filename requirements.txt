@@ -14,7 +14,7 @@ ipython==7.3.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jedi==0.13.3
-Jinja2==2.10
+Jinja2>=2.10.1
 jsonschema==3.0.0
 jupyter==1.0.0
 jupyter-client==5.2.4
@@ -64,4 +64,3 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
 xgboost==0.82
-Jinja2>=2.10.1
