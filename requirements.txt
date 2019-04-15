@@ -64,3 +64,4 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
 xgboost==0.82
+Jinja2>=2.10.1
