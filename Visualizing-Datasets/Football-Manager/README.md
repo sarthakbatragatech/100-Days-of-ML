@@ -1,4 +1,4 @@
-# Football Manager Dataset
+# Football Manager Dataset Visualized
 
 * Over 150,000 football manager 2017 players with over 80 features/attributes to analyze!
 * Data can be found on Kaggle [here](https://www.kaggle.com/ajinkyablaze/football-manager-data)
